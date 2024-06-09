@@ -1,0 +1,16 @@
+{
+  "conventionalCommits.scopes": [
+    "dashboard",
+    "project",
+    "work-items",
+    "user",
+    "organization",
+    "resource",
+    "messages"
+  ],
+  "cSpell.words": [
+    "nothanks",
+    "uploadstuff",
+    "xixixao"
+  ]
+}
